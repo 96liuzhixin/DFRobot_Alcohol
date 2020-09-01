@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring DFRobot_Alcohol_IIC
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DFRobot_Alcohol_IIC	KEYWORD1
+DFRobot_Alcohol_UART	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+SetModes	KEYWORD2
+alcoholConcentration	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ADDRESS_0	LITERAL1
+ADDRESS_1	LITERAL1
+ADDRESS_2	LITERAL1
+ADDRESS_3	LITERAL1
+MEASURE_MODE_AUTOMATIC	LITERAL1
+MEASURE_MODE_PASSIVE	LITERAL1
+
+
